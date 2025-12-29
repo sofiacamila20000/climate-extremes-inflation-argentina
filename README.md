@@ -16,7 +16,7 @@ The core of the project is a **DuckDB** analytical model built from raw CSV inpu
 
 ---
 
-## Data sources (100% real)
+## Data sources
 
 ### 1) INDEC — IPC (Índice de Precios al Consumidor)
 - File used: `serie_ipc_aperturas.csv`
